@@ -1,4 +1,4 @@
-h1 {
+h1, h3 {
     color: magenta;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 150px;
@@ -41,14 +41,15 @@ li:last-child {
 }
 
 form {
-    height:110px;
-    width:190px;
+    height:300px;
+    width:10px;
     margin:auto;
     border:1px #CCC solid;
-    padding:10px;
+    padding:200px;
+    background-color: black;
 }
     
 input, textarea {
-    padding:5px;
-    margin:5px
+    padding:25px;
+    margin:25px
 }
