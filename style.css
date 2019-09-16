@@ -1,37 +1,39 @@
 h1 {
-    color: #111;
+    color: magenta;
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 150px;
     font-weight: bold;
     letter-spacing: -35px;
     line-height: 1;
     text-align: right;
+    background-color: green;
 }
 
 p {
-    color: #685206;
+    color: magenta;
     font-family: 'Helvetica Neue', sans-serif;
-    font-size: 14px;
+    font-size: 100px;
     line-height: 24px;
     margin: 0 0 24px;
-    text-align: justify;
+    text-align: end;
     text-justify: inter-word;
 }
 
 textarea {
     margin: 20px;
     width: 300px;
-    height: 150px;
+    height: 100px;
 }
 
 ul, ol {
     margin: 20px;
     padding: 0;
+    color: blueviolet
 }
 
 li {
-    font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
-    border-bottom: 1px solid #ccc;
+    font: 50 20px/1.5 Helvetica, Verdana, sans-serif;
+    border-bottom: 50px solid green;
 }
 
 li:last-child {
